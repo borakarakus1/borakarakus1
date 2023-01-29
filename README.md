@@ -8,7 +8,7 @@ I have worked in the fields of Java, MSSQL, git and C#, Especially Python. I am 
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [borakarakus02@gmail.com](mailto:borakarakus02@gmail.com)
-* 🧠  I'm learning Artificial Intelligence Models
+* 🧠  I'm learning Backend Technologies
 * 🤝  I'm open to collaborating on Creative AI projects
 
 ### Skills
