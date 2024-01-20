@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer at Turk EximBank
 ----------------------------
 
-I have worked in the fields of Java, MSSQL, git and C#, Especially Python. I am trying to improve myself in the fields of Backend Development and Machine Learning. I also do research on blockchain technology. I designed a blockchain using Python. I continue to work on cryptocurrencies and smart contracts.
+I'm a 4th-year software engineering student passionate about backend development. Proficient in Java, Spring, Python, Django, Flask, SQL, PL-SQL, and Git. Skilled in building scalable systems, working collaboratively, and eager to contribute to a dynamic team's success.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [borakarakus02@gmail.com](mailto:borakarakus02@gmail.com)
