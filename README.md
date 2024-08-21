@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer at Turk EximBank
 ----------------------------
 
-I'm a 4th-year software engineering student passionate about backend development. Proficient in Java, Spring, Python, Django, Flask, SQL, PL-SQL, and Git. Skilled in building scalable systems, working collaboratively, and eager to contribute to a dynamic team's success.
+I am passionate about backend development and have experience in Java, SpringBoot, Python, Django, SQL, PL-SQL, and Git. I specialize in building scalable systems that meet business requirements and have worked in teams using Git. Additionally, I have a strong understanding of microservices architecture. I am excited to bring my skills to a dynamic team and continue to grow as a software engineer.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [borakarakus02@gmail.com](mailto:borakarakus02@gmail.com)
